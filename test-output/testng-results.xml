@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T07:15:44 IST" name="Default suite" finished-at="2024-05-29T07:15:59 IST" duration-ms="15360">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T07:15:44 IST" name="Default test" finished-at="2024-05-29T07:15:59 IST" duration-ms="15360">
+      <class name="com.SiNoKa_In.rep.HomePage.HomePageValidate">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:43 IST" name="configBS" finished-at="2024-05-29T07:15:44 IST" duration-ms="607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:44 IST" name="configBC" finished-at="2024-05-29T07:15:50 IST" duration-ms="5814" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:50 IST" name="configBM" finished-at="2024-05-29T07:15:51 IST" duration-ms="1343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="homepagedisplayedtestTest()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:51 IST" name="homepagedisplayedtestTest" finished-at="2024-05-29T07:15:54 IST" duration-ms="2559" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepagedisplayedtestTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:54 IST" name="configAM" finished-at="2024-05-29T07:15:55 IST" duration-ms="1186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:55 IST" name="configBM" finished-at="2024-05-29T07:15:56 IST" duration-ms="950" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="test01()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:56 IST" name="test01" finished-at="2024-05-29T07:15:56 IST" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:56 IST" name="configAM" finished-at="2024-05-29T07:15:59 IST" duration-ms="2893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:59 IST" name="configAC" finished-at="2024-05-29T07:15:59 IST" duration-ms="467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.SiNoKa_In.rep.HomePage.HomePageValidate@19932c16]" started-at="2024-05-29T07:15:59 IST" name="configAS" finished-at="2024-05-29T07:15:59 IST" duration-ms="23" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.SiNoKa_In.rep.HomePage.HomePageValidate -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
