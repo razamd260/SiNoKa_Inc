@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-29T08:49:47 IST" name="Surefire suite" finished-at="2024-05-29T08:50:07 IST" duration-ms="19734">
+    <groups>
+    </groups>
+    <test started-at="2024-05-29T08:49:47 IST" name="Surefire test" finished-at="2024-05-29T08:50:07 IST" duration-ms="19734">
+      <class name="com.SiNoKa_In.erp.Product.ProductModule">
+        <test-method is-config="true" signature="configBS()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:49:46 IST" name="configBS" finished-at="2024-05-29T08:49:47 IST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBS -->
+        <test-method is-config="true" signature="configBC()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:49:47 IST" name="configBC" finished-at="2024-05-29T08:49:53 IST" duration-ms="6269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBC -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:49:53 IST" name="configBM" finished-at="2024-05-29T08:49:57 IST" duration-ms="3303" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="createnewproductTest()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:49:57 IST" name="createnewproductTest" finished-at="2024-05-29T08:50:02 IST" duration-ms="5487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createnewproductTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:50:02 IST" name="configAM" finished-at="2024-05-29T08:50:03 IST" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configBM()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:50:03 IST" name="configBM" finished-at="2024-05-29T08:50:04 IST" duration-ms="632" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBM -->
+        <test-method signature="test01()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:50:04 IST" name="test01" finished-at="2024-05-29T08:50:04 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test01 -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:50:04 IST" name="configAM" finished-at="2024-05-29T08:50:07 IST" duration-ms="2795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAC()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:50:07 IST" name="configAC" finished-at="2024-05-29T08:50:07 IST" duration-ms="267" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAC -->
+        <test-method is-config="true" signature="configAS()[pri:0, instance:com.SiNoKa_In.erp.Product.ProductModule@3c130745]" started-at="2024-05-29T08:50:07 IST" name="configAS" finished-at="2024-05-29T08:50:07 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAS -->
+      </class> <!-- com.SiNoKa_In.erp.Product.ProductModule -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

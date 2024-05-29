@@ -17,5 +17,10 @@ public class ProductModule extends Baseclass{
 		createnewproduct.getcreateproductsaveButton().click();
 		
 	}
+	
+	@Test
+	public void test01() {
+		System.out.println("Test01 New Please Check");
+	}
 
 }
