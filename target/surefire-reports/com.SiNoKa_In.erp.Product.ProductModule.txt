@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.SiNoKa_In.erp.Product.ProductModule
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 21.969 s - in com.SiNoKa_In.erp.Product.ProductModule
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.937 s - in com.SiNoKa_In.erp.Product.ProductModule

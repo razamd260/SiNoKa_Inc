@@ -3,18 +3,17 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.SiNoKa_In.rep.HomePage.HomePageValidate">
+      <class name="com.SiNoKa_In.erp.Member.MembersScripts">
         <methods>
           <include name="configBC"/>
           <include name="configBS"/>
-          <include name="homepagedisplayedtestTest"/>
+          <include name="createnewproductTest"/>
           <include name="configAC"/>
           <include name="configAS"/>
           <include name="configBM"/>
-          <include name="test01"/>
           <include name="configAM"/>
         </methods>
-      </class> <!-- com.SiNoKa_In.rep.HomePage.HomePageValidate -->
+      </class> <!-- com.SiNoKa_In.erp.Member.MembersScripts -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
